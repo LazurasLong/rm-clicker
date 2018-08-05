@@ -1,0 +1,2 @@
+[Variables]
+points = 0
